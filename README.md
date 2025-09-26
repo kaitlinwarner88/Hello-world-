@@ -2,6 +2,8 @@
 My first repository 
 
 ## Table of contents 
-- #Project-Title
-- #Description
-- #files-used
+- [PROJECT TITLE](#Project-Title)
+- [DESCRIPTION](#Description)
+- [FILES USED](#files-used)  
+- [HOW TO RUN PROGRAM](How-to-run-program)  
+- [ADDITIONAL INFORMATION](#additional-information)  
