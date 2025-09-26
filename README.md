@@ -15,10 +15,10 @@ My first repository
 *Hello world Sample - My First Repository*
 
 ## Description  
-## Files USed 
+## Files Used 
 ## How to Run Program 
   ~~no its not~~  
-  **Yes** 
+  **Yes**   
   *No*  
   ***Maybe***
 ## Additional Information 
