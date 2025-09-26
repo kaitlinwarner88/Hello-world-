@@ -22,5 +22,5 @@ My first repository
   *No*  
   ***Maybe***
 ## Additional Information 
-  >quote
+  >
 >"I am a junior in college"
